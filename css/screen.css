@@ -32,6 +32,10 @@ h1{
 #fontsize {
   font-size: 1.3em;
 }
+button{
+  text-align: center;
+  font-size: 1.2em;
+}
 
 @media screen and (min-width: 480px) {
   #form {
