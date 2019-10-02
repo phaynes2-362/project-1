@@ -15,7 +15,10 @@ input {
 placeholder{
     text-align: center;
   }
-
+h1{
+  text-align: center;
+  color: red;
+}
 #fontsize {
   font-size: 1.3em;
 }
