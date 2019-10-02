@@ -22,7 +22,9 @@ input {
     text-align: center;
     margin: auto;
   }
-
+  placeholder{
+    text-align:center;
+  }
   label {
     font-size: 1.2em;
   }
