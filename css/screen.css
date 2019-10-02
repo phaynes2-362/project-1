@@ -2,12 +2,15 @@ label {
   display: block;
   text-align: center;
   font-size: 1.5em;
+  color: #DBA72E;
 }
 body{
-  background-color: #D1CEC5;
+  background-color:#D1CEC5;
 }
 form{
-  background-color:# #997C67;
+  background-color:#997C67;
+  
+  height: 80%;
 }
 input {
   width: 100%;
@@ -16,6 +19,7 @@ input {
   border: 1px solid #ccc;
   border-radius: 6px;
   box-sizing: border-box;
+  background-color: #E3CCA1;
 }
 placeholder{
     text-align: center;
@@ -33,7 +37,6 @@ h1{
   #form {
     text-align: center;
     margin: auto;
-    background-color:# #997C67;
 
   }
   placeholder{
@@ -47,7 +50,7 @@ h1{
     width: 60%;
   }
   
-  #submit {
+  #button {
     width: 35%;
     display: block;
     margin: auto;
@@ -61,7 +64,7 @@ h1{
     text-align: center;
   }
   
-  #submit {
+  #button {
     width: 26%;
   }
 }
