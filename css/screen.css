@@ -12,6 +12,9 @@ input {
   border-radius: 6px;
   box-sizing: border-box;
 }
+placeholder{
+    text-align: center;
+  }
 
 #fontsize {
   font-size: 1.3em;
@@ -23,7 +26,7 @@ input {
     margin: auto;
   }
   placeholder{
-    text-align:center;
+    text-align: center;
   }
   label {
     font-size: 1.2em;
