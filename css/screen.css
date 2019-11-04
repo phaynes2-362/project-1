@@ -36,7 +36,7 @@ button{
   font-size: 1.5em;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 480px)/* phone */ {
   #form {
     text-align: center;
     margin: auto;
@@ -61,7 +61,7 @@ button{
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) /* tablet +*/{
   #form {
     width: 600px;
     text-align: center;
