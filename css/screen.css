@@ -1,4 +1,10 @@
 /* https://duoparadigms.com/2013/10/11/10-color-palettes-perfect-autumnfall-season/ */ 
+/*
+  Minor Second Modular Scale:
+  https://www.modularscale.com/?1&em&1.067
+*/
+
+
 label {
   display: block;
   text-align: center;
@@ -7,6 +13,8 @@ label {
 }
 body{
   background-color:#D1CEC5;
+  font-family: 'Stoke', serif, sans-serif;
+
 }
 form{
   background-color:#997C67;  
@@ -25,7 +33,7 @@ placeholder{
   }
 h1{
   text-align: center;
-  color: red;
+  color: #DBA72E ;
   font-size:3em;
 }
 #fontsize {
